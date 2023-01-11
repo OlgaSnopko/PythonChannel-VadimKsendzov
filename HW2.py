@@ -1,41 +1,41 @@
 # Exercise 1 Создать переменную int_item со значением 10
-
+int_item = 10
 # Exercise 2 Создать переменную comp_item со значением 18
-
-# Exercise 3 Создать переменную mult_int в которй умножите int_item на 2
-
+comp_item = 18
+# Exercise 3 Создать переменную mult_int в которой умножите int_item на 2
+mult_int = int_item * 2
 # Exercise 4 Создать переменную item_2 со значением True
-
+item_2 = True
 # Exercise 5 Создать переменную item_3 со значением False
-
+item_3 = False
 # Exercise 6 Создать переменную item_4 со значением 0
-
+item_4 = 0
 # Exercise 7 Создать переменную item_5 со значением 1
-
+item_5 = 1
 # Exercise 8 Создать переменную usd_item со значением ‘usd’
-
+usd_item = usd
 # Exercise 9 Создать переменную usd_usd_rate со значением 1
-
+usd_usd_rate = 1
 # Exercise 10 Создать переменную eur_item со значением ‘eur’
-
+eur_item = 'eur'
 # Exercise 11 Создать переменную usd_eur_rate со значением 0.86
-
+usd_eur_rate = 0.86
 # Exercise 12 Создать переменную uah_item со значением ‘uah’
-
+uah_item = 'uah'
 # Exercise 13 Создать переменную usd_uah_rate со значением 26.23
-
+usd_uah_rate = 26.23
 # Exercise 14 Создать переменную chf_item со значением ‘chf’
-
+chf_item = 'chf'
 # Exercise 15 Создать переменную usd_chf_rate со значением 0.91
-
+usd_chf_rate = 0.91
 # Exercise 16 Создать переменную rub_item со значением ‘rub’
-
+rub_item = 'rub'
 # Exercise 17 Создать переменную usd_rub_rate со значением 71.88
-
+usd_rub_rate = 71.88
 # Exercise 18 Создать переменную byn_item со значением ‘byn’
-
+byn_item = 'byn'
 # Exercise 19 Создать переменную usd_byn_rate со значением 2.46
-
+usd_byn_rate = 2.46
 # Exercise 20 Сделать if в котором будет условие: если mult_int больше comp_item, то вывести в консоль
 # (“Переменная mult_int больше”, comp_item)
 
